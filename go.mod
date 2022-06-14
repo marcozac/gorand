@@ -1,3 +1,3 @@
-module github.com/marcozac/go-rand
+module github.com/marcozac/gorand
 
 go 1.18
